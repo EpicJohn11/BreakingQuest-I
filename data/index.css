@@ -2,6 +2,6 @@ body {
   background-image: url('images (10).jpeg');
   background-repeat: no-repeat;
   background-attachment: fixed;  
-  background-size: 1280, 720;
+  background-size: 300% 300%;
   color: white;
 }
