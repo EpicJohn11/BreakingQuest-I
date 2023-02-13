@@ -1,11 +1,11 @@
 function PlayGame()
 {
-  window.location.replace("data/cutscenes/cut01.html"); 
+  window.location.replace("https://epicjohn11.github.io/BreakingQuest-I/data/cutscenes/cut01.html"); 
 }
 
 function OpenCredits()
 {
-  window.location.replace("data/credits.html");
+  window.location.replace("https://epicjohn11.github.io/BreakingQuest-I/data/credits.html");
 }
 
 function QuitGame()
