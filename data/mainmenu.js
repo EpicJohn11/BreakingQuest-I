@@ -15,5 +15,5 @@ function QuitGame()
 
 function BackToMenu()
 {
-  window.location.replace("index.html"); 
+  window.location.replace("https://epicjohn11.github.io/BreakingQuest-I/index.html"); 
 }
