@@ -1,6 +1,6 @@
 function PlayGame()
 {
-  window.location.replace("data/levels/level01.html"); 
+  window.location.replace("data/cutscenes/cut01.html"); 
 }
 
 function OpenCredits()
